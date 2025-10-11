@@ -1,0 +1,6 @@
+@OneManDev_PI_HostAddress = http://localhost:5190
+
+GET {{OneManDev_PI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
